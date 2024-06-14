@@ -9,7 +9,7 @@ const playerImage = new Image();
 playerImage.src = 'shadow_dog.png';
 const spriteWidth = 575;
 const spriteHeight =523;
-let frameX = 1
+let frameX = 0
 let frameY= 0
 //gameFrame allows us to replicate velocity
 let gameFrame = 0
